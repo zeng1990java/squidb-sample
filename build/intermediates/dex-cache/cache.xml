@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zxb/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-69d435118b3419b88b250f96cbaf708aebc8af60.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/exploded-aar/com.yahoo.squidb/squidb-jackson-plugin/1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c621edf22df602897f0aa5936e846fa1055a8e57">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/classes-23b6c908c258a178465f98f17a6b48d119a944cb.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.12/ecfc6f73a841c4c3c653b59651a3f9d5f1286469/jackson-core-asl-1.9.12.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecfc6f73a841c4c3c653b59651a3f9d5f1286469">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.12-2b0e452f8c7586fa56c05e3f35c1c0e9a44faf8f.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-61f9127e3b16781172837b5bea16979fc78872e2.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-annotations/build/libs/squidb-annotations-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="55bb19eaaffd134e7ff7f19cfbfec592b74e161a">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/squidb-annotations-1.0-8b10ca21e374534491e5867e068d6ac88de8b176.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.12/8b290aae44213e2f6da00c07af59b0d442068f4d/jackson-mapper-asl-1.9.12.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8b290aae44213e2f6da00c07af59b0d442068f4d">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.12-5e4a454c8e912407da17fbad7edef03d861216f5.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/exploded-aar/com.yahoo.squidb/squidb/1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="469745836ee92fc54eb04f947822503d8037c87d">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/classes-2ff8339d791f0c66804fdb1517f86be78ba903dd.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-jackson-annotations/build/libs/squidb-jackson-annotations-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a46f08dc3225f0e9ec0c3d341b996b0ff866a696">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/squidb-jackson-annotations-1.0-bfd720a106a57de51626341f727ef4180d9b6204.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/classes-183650925fcb9745c9f1f3fa5d42b9e850dd39b5.jar" />
+    </item>
+    <item
+        jar="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/zxb/AndroidStudioProjects/Demo/squidb-mysample/build/intermediates/pre-dexed/debug/classes-a4cab8b0ed826e1cb684647f43d901c9714cea63.jar" />
+    </item>
+
+</items>

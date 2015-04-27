@@ -1,0 +1,1 @@
+include ':app', ':locker', ':daggerdemo', ':simpledagger', ':mydagger', ':rvdemo', ':v7demo', ':v4demo', ':keybord', ':squidb-annotations', ':squidb', ':squidb-processor', ':squidb-jackson-plugin', ':squidb-jackson-annotations', ':squidb-jackson-compiler', ':squidb-sample', ':squidb-mysample'

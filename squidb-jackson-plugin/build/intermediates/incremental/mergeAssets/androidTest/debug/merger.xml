@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.0"><source path="/Users/zxb/AndroidStudioProjects/Demo/squidb-jackson-plugin/build/intermediates/exploded-aar/com.yahoo.squidb/squidb/1.0/assets"/></dataSet><dataSet config="debug"><source path="/Users/zxb/AndroidStudioProjects/Demo/squidb-jackson-plugin/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/zxb/AndroidStudioProjects/Demo/squidb-jackson-plugin/src/androidTest/assets"/></dataSet></merger>

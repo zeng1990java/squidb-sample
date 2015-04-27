@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zxb/AndroidStudioProjects/Demo/squidb-jackson-plugin/assets"/></dataSet><dataSet config="debug"><source path="/Users/zxb/AndroidStudioProjects/Demo/squidb-jackson-plugin/src/debug/assets"/></dataSet></merger>
